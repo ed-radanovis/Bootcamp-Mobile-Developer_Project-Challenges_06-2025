@@ -1,0 +1,12 @@
+{
+  "name": "mario_kart_racing_simulator",
+  "version": "1.0.0",
+  "description": "Project Challenge: Mario Kart.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -162,19 +162,19 @@
     </td>
   </tr>
 </table>
-<!-- <table align="center">
+<table align="center">
   <tr>
     <td align="center">
-    <a href="https://www.dio.me/certificate/KQO7KNFP/share">
-      <img src="/certificates/Certificado 0_Desenvolvimento Mobile com a meutudo.jpg" width="160px;" height="50px;" alt="Certificate-0"/>
+    <a href="https://www.dio.me/certificate/RLRKXDC8/share">
+      <img src="/certificates/Certificado 8_Carrinho de Compras da Shopee com NodeJS.jpg" width="160px;" height="50px;" alt="Certificate-8"/>
       </a><br>
     </td>
     <td align="center">
-    <a href="https://www.dio.me/certificate/GBAJ1XNG/share">
-      <img src="/certificates/Certificado 1_Bem-Vindo ao Mundo do Node.js.jpg" width="160px;" height="50px;" alt="Certificate-1"/>
+    <a href="https://www.dio.me/certificate/BYXUIEWO/share">
+      <img src="/certificates/Certificado 9_Gerenciando pacotes com Node.jpg" width="160px;" height="50px;" alt="Certificate-1"/>
       </a><br>
     </td>
-    <td align="center">
+    <!-- <td align="center">
     <a href="https://www.dio.me/certificate/PB9PSUWG/share">
       <img src="/certificates/Certificado 2_Introdução ao Node.jpg" width="160px;" height="50px;" alt="Certificate-2"/>
       </a><br>
@@ -203,9 +203,9 @@
     <a href="https://www.dio.me/certificate/HP6JJGBG/share">
       <img src="/certificates/Certificado 7_Modularização com EcmaScript Modules.jpg" width="160px;" height="50px;" alt="Certificate-0"/>
       </a><br>
-    </td>
+    </td> -->
   </tr>
-</table> -->
+</table>
 
 ---
 

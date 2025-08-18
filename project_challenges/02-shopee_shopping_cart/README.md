@@ -26,7 +26,7 @@ Taught by _Felipe Silva Aguiar_ - Tech Educator at DIO.
 <table align="center"
   <tr>
     <td align="center">
-      <img src="./assets/Model.png" width="400px;"height="300px;" alt="Logo da EWD Apex"/>
+      <img src="./assets/Model.png" width="400px;"height="300px;" alt="copy shopee cart screen"/>
     </td>
   </tr>
 </table>

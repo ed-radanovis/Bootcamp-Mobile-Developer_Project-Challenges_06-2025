@@ -36,10 +36,10 @@
 
 | Status | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projects |
 | :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   ✔️   | &nbsp;&nbsp; [01 &nbsp;&nbsp; - &nbsp;&nbsp; Mario Kart Racing Simulator with Node.js](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/mario_kart_racing_simulator)                                                                        |
-|   ✔️   | &nbsp;&nbsp; [02&nbsp;&nbsp;- &nbsp;&nbsp;Shopee Shopping Cart with Node.js](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/shopee_shopping_cart)                                                                                         |
-|   📌   | &nbsp;&nbsp; [03&nbsp;&nbsp;- &nbsp;&nbsp;QR Code Generator for E-commerce with Node.js](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                                             |
-|   ⚠️   | &nbsp;&nbsp; [04&nbsp;&nbsp;- &nbsp;&nbsp;Podcast Manager - NodeJS API with Typescript and HTTP Module](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                              |
+|   ✔️   | &nbsp;&nbsp; [01 &nbsp;&nbsp; - &nbsp;&nbsp; Mario Kart Racing Simulator with Node.js](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/01-mario_kart_racing_simulator)                                                                     |
+|   ✔️   | &nbsp;&nbsp; [02&nbsp;&nbsp;- &nbsp;&nbsp;Shopee Shopping Cart with Node.js](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/02-shopee_shopping_cart)                                                                                      |
+|   ✔️   | &nbsp;&nbsp; [03&nbsp;&nbsp;- &nbsp;&nbsp;QR Code Generator for E-commerce with Node.js](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/03-qr_code_generator)                                                                             |
+|   📌   | &nbsp;&nbsp; [04&nbsp;&nbsp;- &nbsp;&nbsp;Podcast Manager - NodeJS API with Typescript and HTTP Module](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                              |
 |   ⚠️   | &nbsp;&nbsp; [05&nbsp;&nbsp;- &nbsp;&nbsp;Minimal Formula 1 API with Node.js and Fastify](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                                            |
 |   ⚠️   | &nbsp;&nbsp; [06&nbsp;&nbsp;- &nbsp;&nbsp;Champions League API with Node.js and Express](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                                             |
 |   ⚠️   | &nbsp;&nbsp; [07&nbsp;&nbsp;- &nbsp;&nbsp;Password Sequencer with React Native](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                                                      |
@@ -157,7 +157,7 @@
     </td>
     <td align="center">
     <a href="https://www.dio.me/certificate/HP6JJGBG/share">
-      <img src="/certificates/Certificado 7_Modularização com EcmaScript Modules.jpg" width="160px;" height="50px;" alt="Certificate-0"/>
+      <img src="/certificates/Certificado 7_Modularização com EcmaScript Modules.jpg" width="160px;" height="50px;" alt="Certificate-7"/>
       </a><br>
     </td>
   </tr>
@@ -171,25 +171,25 @@
     </td>
     <td align="center">
     <a href="https://www.dio.me/certificate/BYXUIEWO/share">
-      <img src="/certificates/Certificado 9_Gerenciando pacotes com Node.jpg" width="160px;" height="50px;" alt="Certificate-1"/>
+      <img src="/certificates/Certificado 9_Gerenciando pacotes com Node.jpg" width="160px;" height="50px;" alt="Certificate-9"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/1LLVX3LA/share">
+      <img src="/certificates/Certificado 10_NPM Scripts em Node JS.jpg" width="160px;" height="50px;" alt="Certificate-10"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/L2HDYUPM/share">
+      <img src="/certificates/Certificado 11_Gerenciando Variáveis de Ambientes com NPM.jpg" width="160px;" height="50px;" alt="Certificate-11"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/IEDEJWPO/share">
+      <img src="/certificates/Certificado 12_Criando um Gerador de QR Codes para E-commerces com Node.jpg" width="160px;" height="50px;" alt="Certificate-12"/>
       </a><br>
     </td>
     <!-- <td align="center">
-    <a href="https://www.dio.me/certificate/PB9PSUWG/share">
-      <img src="/certificates/Certificado 2_Introdução ao Node.jpg" width="160px;" height="50px;" alt="Certificate-2"/>
-      </a><br>
-    </td>
-    <td align="center">
-    <a href="https://www.dio.me/certificate/XIUYMS5R/share">
-      <img src="/certificates/Certificado 3_Instalando Ambiente de Desenvolvimento Nodejs.jpg" width="160px;" height="50px;" alt="Certificate-3"/>
-      </a><br>
-    </td>
-    <td align="center">
-    <a href="https://www.dio.me/certificate/3BSXCAFZ/share">
-      <img src="/certificates/Certificado 4_Inicializando Projetos Nodejs.jpg" width="160px;" height="50px;" alt="Certificate-4"/>
-      </a><br>
-    </td>
-    <td align="center">
     <a href="https://www.dio.me/certificate/DCKUAGMI/share">
       <img src="/certificates/Certificado 5_Simulador de Corridas do Mario.jpg" width="160px;" height="50px;" alt="Certificate-5"/>
       </a><br>

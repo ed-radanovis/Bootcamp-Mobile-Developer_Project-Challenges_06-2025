@@ -65,6 +65,7 @@ The project was fully completed and some of the resources used were:
 🧠 Skills Learned
 
 - [ ] &nbsp;&nbsp;&nbsp;Upon completion of this project, the following skills and subskills will be acquired:
+
 - How to create QR Codes in different formats using the qrcode-terminal package.
 - Understanding how to manipulate and integrate various Node.js packages (chalk, prompt, qrcode-terminal).
 - Creating projects with a modular structure, separating concerns into prompts, services, and utilities.

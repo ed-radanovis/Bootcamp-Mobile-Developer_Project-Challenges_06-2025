@@ -177,7 +177,6 @@
 
 ---
 
-<br>
 <h5 align="center">
   🏗️ Individual Courses 📗
 <h5/>

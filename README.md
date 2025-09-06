@@ -109,16 +109,12 @@
   </tr>
 </table>
 <br>
-<br>
 
 ---
 
-<br>
-<h4 align="center">
+<h3 align="center">
   🥇 Certificates
-<h4/>
-<br>
-<br>
+<h3/>
 
 <h5 align="center">
   🎓 Modules 📚
@@ -177,9 +173,11 @@
     </td>
   </tr>
 </table> -->
+<br>
 
 ---
 
+<br>
 <h5 align="center">
   🏗️ Individual Courses 📗
 <h5/>

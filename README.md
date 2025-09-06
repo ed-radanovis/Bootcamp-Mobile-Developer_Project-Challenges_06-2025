@@ -110,13 +110,78 @@
   </tr>
 </table>
 <br>
-<br>
 
 ---
 
 <h4 align="center">
   🥇 Certificates
 <h4/>
+<br>
+<br>
+
+<h5 align="center">
+  🎓 Modules 📚
+<h5/>
+
+<table align="center">
+  <tr>
+<td align="center">
+    <a href="https://www.dio.me/certificate/8NWGQWZO/share">
+      <img src="/certificates/modulo_Certificado 0_Trabalhando com Node Modules.jpg" width="160px;" height="80px;" alt="Module certificate-0"/>
+      </a>
+      <sub>07:00 h</sub><br>
+    </td>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/L9FXNTKS/share">
+      <img src="/certificates/modulo_Certificado 1_Fundamentos de Programação com Node.jpg" width="160px;" height="80px;" alt="Module certificate-1"/>
+      </a>
+      <sub>11:00 h</sub><br>
+    </td>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/W0DXRX7J/share">
+      <img src="/certificates/modulo_Certificado 2_Gerenciando Pacotes Node com NPM.jpg" width="160px;" height="80px;" alt="Module certificate-2"/>
+      </a>
+      <sub>07:00 h</sub><br>
+    </td>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/D464PXNL/share">
+      <img src="/certificates/modulo_Certificado 3_Typescript para Devs Node.js.jpg" width="160px;" height="80px;" alt="Module certificate-3"/>
+      </a>
+      <sub>03:00 h</sub><br>
+    </td>
+  </tr>
+</table>
+
+<!-- <table align="center">
+  <tr>
+<td align="center">
+    <a href="https://www.dio.me/certificate/8NWGQWZO/share">
+      <img src="/certificates/modulo_Certificado 0_Trabalhando com Node Modules.jpg" width="160px;" height="80px;" alt="Module certificate-0"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/8NWGQWZO/share">
+      <img src="/certificates/modulo_Certificado 0_Trabalhando com Node Modules.jpg" width="160px;" height="80px;" alt="Module certificate-0"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/8NWGQWZO/share">
+      <img src="/certificates/modulo_Certificado 0_Trabalhando com Node Modules.jpg" width="160px;" height="80px;" alt="Module certificate-0"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/8NWGQWZO/share">
+      <img src="/certificates/modulo_Certificado 0_Trabalhando com Node Modules.jpg" width="160px;" height="80px;" alt="Module certificate-0"/>
+      </a><br>
+    </td>
+  </tr>
+</table> -->
+
+---
+
+<h5 align="center">
+  🏗️ Individual Courses 📗
+<h5/>
 
 <table align="center">
   <tr>
@@ -162,6 +227,7 @@
     </td>
   </tr>
 </table>
+
 <table align="center">
   <tr>
     <td align="center">
@@ -189,19 +255,63 @@
       <img src="/certificates/Certificado 12_Criando um Gerador de QR Codes para E-commerces com Node.jpg" width="160px;" height="50px;" alt="Certificate-12"/>
       </a><br>
     </td>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/VXFCWPEH/share">
+      <img src="/certificates/Certificado 13_Introdução a TypeScript e Supersets.jpg" width="160px;" height="50px;" alt="Certificate-13"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/P6YMRPGY/share">
+      <img src="/certificates/Certificado 14_Como configurar TypeScript em Projetos Nodejs.jpg" width="160px;" height="50px;" alt="Certificate-14"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/IPD2N9D1/share">
+      <img src="/certificates/Certificado 15_Debugging com Nodejs.jpg" width="160px;" height="50px;" alt="Certificate-15"/>
+      </a><br>
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
     <!-- <td align="center">
-    <a href="https://www.dio.me/certificate/DCKUAGMI/share">
-      <img src="/certificates/Certificado 5_Simulador de Corridas do Mario.jpg" width="160px;" height="50px;" alt="Certificate-5"/>
+    <a href="https://www.dio.me/certificate/RLRKXDC8/share">
+      <img src="/certificates/Certificado 8_Carrinho de Compras da Shopee com NodeJS.jpg" width="160px;" height="50px;" alt="Certificate-8"/>
       </a><br>
-    </td>
-    <td align="center">
-    <a href="https://www.dio.me/certificate/AHQDXSZG/share">
-      <img src="/certificates/Certificado 6_Modularização de Projetos Node.js com CommonJS.jpg" width="160px;" height="50px;" alt="Certificate-6"/>
+    </td> -->
+    <!-- <td align="center">
+    <a href="https://www.dio.me/certificate/BYXUIEWO/share">
+      <img src="/certificates/Certificado 9_Gerenciando pacotes com Node.jpg" width="160px;" height="50px;" alt="Certificate-9"/>
       </a><br>
-    </td>
-    <td align="center">
-    <a href="https://www.dio.me/certificate/HP6JJGBG/share">
-      <img src="/certificates/Certificado 7_Modularização com EcmaScript Modules.jpg" width="160px;" height="50px;" alt="Certificate-0"/>
+    </td> -->
+    <!-- <td align="center">
+    <a href="https://www.dio.me/certificate/1LLVX3LA/share">
+      <img src="/certificates/Certificado 10_NPM Scripts em Node JS.jpg" width="160px;" height="50px;" alt="Certificate-10"/>
+      </a><br>
+    </td> -->
+    <!-- <td align="center">
+    <a href="https://www.dio.me/certificate/L2HDYUPM/share">
+      <img src="/certificates/Certificado 11_Gerenciando Variáveis de Ambientes com NPM.jpg" width="160px;" height="50px;" alt="Certificate-11"/>
+      </a><br>
+    </td> -->
+    <!-- <td align="center">
+    <a href="https://www.dio.me/certificate/IEDEJWPO/share">
+      <img src="/certificates/Certificado 12_Criando um Gerador de QR Codes para E-commerces com Node.jpg" width="160px;" height="50px;" alt="Certificate-12"/>
+      </a><br>
+    </td> -->
+    <!-- <td align="center">
+    <a href="https://www.dio.me/certificate/W0DXRX7J/share">
+      <img src="/certificates/Certificado 13_Gerenciando Pacotes Node com NPM.jpg" width="160px;" height="50px;" alt="Certificate-13"/>
+      </a><br>
+    </td> -->
+    <!-- <td align="center">
+    <a href="https://www.dio.me/certificate/VXFCWPEH/share">
+      <img src="/certificates/Certificado 14_Introdução a TypeScript e Supersets.jpg" width="160px;" height="50px;" alt="Certificate-14"/>
+      </a><br>
+    </td> -->
+    <!-- <td align="center">
+    <a href="https://www.dio.me/certificate/P6YMRPGY/share">
+      <img src="/certificates/Certificado 15_Como configurar TypeScript em Projetos Nodejs.jpg" width="160px;" height="50px;" alt="Certificate-15"/>
       </a><br>
     </td> -->
   </tr>

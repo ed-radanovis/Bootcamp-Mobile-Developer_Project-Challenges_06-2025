@@ -81,7 +81,6 @@
     </td>
   </tr>
 </table>
-<br>
 
 ---
 
@@ -110,9 +109,11 @@
   </tr>
 </table>
 <br>
+<br>
 
 ---
 
+<br>
 <h4 align="center">
   🥇 Certificates
 <h4/>

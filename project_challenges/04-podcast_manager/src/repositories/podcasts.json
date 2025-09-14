@@ -1,0 +1,32 @@
+[
+  {
+    "podcastName": "kazagastao",
+    "episode": "A DESPEDIDA de OZZY e do BLACK SABBATH",
+    "videoId": "xxI2FK2uMXA",
+    "categories": [
+      "music",
+      "sport",
+      "development"
+    ]
+  },
+  {
+    "podcastName": "akitando",
+    "episode": "Gerenciamento de Memória (Parte 1) | Entendendo Back-end para Iniciantes (Parte 5)",
+    "videoId": "9AK_1gqEfkQ",
+    "categories": [
+      "music",
+      "sport",
+      "development"
+    ]
+  },
+  {
+    "podcastName": "ErickWendelAcademy",
+    "episode": "Node.js Streams + Rate Limiting = Mastering Data Processing Advanced JavaScript",
+    "videoId": "tNjmQxwD1TM",
+    "categories": [
+      "music",
+      "sport",
+      "development"
+    ]
+  }
+]

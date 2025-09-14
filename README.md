@@ -36,11 +36,11 @@
 
 | Status | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projects |
 | :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   ✔️   | &nbsp;&nbsp; [01 &nbsp;&nbsp; - &nbsp;&nbsp; Mario Kart Racing Simulator with Node.js](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/01-mario_kart_racing_simulator)                                                                     |
+|   ✔️   | &nbsp;&nbsp; [01&nbsp;&nbsp; - &nbsp;&nbsp;Mario Kart Racing Simulator with Node.js](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/01-mario_kart_racing_simulator)                                                                       |
 |   ✔️   | &nbsp;&nbsp; [02&nbsp;&nbsp;- &nbsp;&nbsp;Shopee Shopping Cart with Node.js](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/02-shopee_shopping_cart)                                                                                      |
 |   ✔️   | &nbsp;&nbsp; [03&nbsp;&nbsp;- &nbsp;&nbsp;QR Code Generator for E-commerce with Node.js](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/03-qr_code_generator)                                                                             |
-|   📌   | &nbsp;&nbsp; [04&nbsp;&nbsp;- &nbsp;&nbsp;Podcast Manager - NodeJS API with Typescript and HTTP Module](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                              |
-|   ⚠️   | &nbsp;&nbsp; [05&nbsp;&nbsp;- &nbsp;&nbsp;Minimal Formula 1 API with Node.js and Fastify](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                                            |
+|   ✔️   | &nbsp;&nbsp; [04&nbsp;&nbsp;- &nbsp;&nbsp;Podcast Manager - NodeJS API with Typescript and HTTP Module](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                              |
+|   📌   | &nbsp;&nbsp; [05&nbsp;&nbsp;- &nbsp;&nbsp;Minimal Formula 1 API with Node.js and Fastify](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                                            |
 |   ⚠️   | &nbsp;&nbsp; [06&nbsp;&nbsp;- &nbsp;&nbsp;Champions League API with Node.js and Express](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                                             |
 |   ⚠️   | &nbsp;&nbsp; [07&nbsp;&nbsp;- &nbsp;&nbsp;Password Sequencer with React Native](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                                                      |
 |   ⚠️   | &nbsp;&nbsp; [08&nbsp;&nbsp;- &nbsp;&nbsp;Recreation - Bat Signal App with React Native](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                                             |
@@ -272,26 +272,26 @@
 </table>
 <table align="center">
   <tr>
-    <!-- <td align="center">
-    <a href="https://www.dio.me/certificate/RLRKXDC8/share">
-      <img src="/certificates/Certificado 8_Carrinho de Compras da Shopee com NodeJS.jpg" width="160px;" height="50px;" alt="Certificate-8"/>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/CIZCN64V/share">
+      <img src="/certificates/Certificado 16_Como a Web Funciona.jpg" width="160px;" height="50px;" alt="Certificate-16"/>
       </a><br>
-    </td> -->
-    <!-- <td align="center">
-    <a href="https://www.dio.me/certificate/BYXUIEWO/share">
-      <img src="/certificates/Certificado 9_Gerenciando pacotes com Node.jpg" width="160px;" height="50px;" alt="Certificate-9"/>
+    </td>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/AVTTCADZ/share">
+      <img src="/certificates/Certificado 17_Como Funciona HTTP Protocol.jpg" width="160px;" height="50px;" alt="Certificate-17"/>
       </a><br>
-    </td> -->
-    <!-- <td align="center">
-    <a href="https://www.dio.me/certificate/1LLVX3LA/share">
-      <img src="/certificates/Certificado 10_NPM Scripts em Node JS.jpg" width="160px;" height="50px;" alt="Certificate-10"/>
+    </td>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/K266UEE7/share">
+      <img src="/certificates/Certificado 18_Introdução ao desenvolvimento de API.jpg" width="160px;" height="50px;" alt="Certificate-18"/>
       </a><br>
-    </td> -->
-    <!-- <td align="center">
-    <a href="https://www.dio.me/certificate/L2HDYUPM/share">
-      <img src="/certificates/Certificado 11_Gerenciando Variáveis de Ambientes com NPM.jpg" width="160px;" height="50px;" alt="Certificate-11"/>
+    </td>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/VX2IHLIW/share">
+      <img src="/certificates/Certificado 19_Introdução a Aplicações Web.jpg" width="160px;" height="50px;" alt="Certificate-19"/>
       </a><br>
-    </td> -->
+    </td>
     <!-- <td align="center">
     <a href="https://www.dio.me/certificate/IEDEJWPO/share">
       <img src="/certificates/Certificado 12_Criando um Gerador de QR Codes para E-commerces com Node.jpg" width="160px;" height="50px;" alt="Certificate-12"/>

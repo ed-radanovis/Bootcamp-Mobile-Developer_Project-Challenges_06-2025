@@ -39,13 +39,13 @@
 |   ✔️   | &nbsp;&nbsp; [01&nbsp;&nbsp; - &nbsp;&nbsp;Mario Kart Racing Simulator with Node.js](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/01-mario_kart_racing_simulator)                                                                       |
 |   ✔️   | &nbsp;&nbsp; [02&nbsp;&nbsp;- &nbsp;&nbsp;Shopee Shopping Cart with Node.js](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/02-shopee_shopping_cart)                                                                                      |
 |   ✔️   | &nbsp;&nbsp; [03&nbsp;&nbsp;- &nbsp;&nbsp;QR Code Generator for E-commerce with Node.js](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/03-qr_code_generator)                                                                             |
-|   ✔️   | &nbsp;&nbsp; [04&nbsp;&nbsp;- &nbsp;&nbsp;Podcast Manager - NodeJS API with Typescript and HTTP Module](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/04-podcast_manager)                                                                |
-|   📌   | &nbsp;&nbsp; [05&nbsp;&nbsp;- &nbsp;&nbsp;Minimal Formula 1 API with Node.js and Fastify](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                                            |
-|   ⚠️   | &nbsp;&nbsp; [06&nbsp;&nbsp;- &nbsp;&nbsp;Champions League API with Node.js and Express](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                                             |
-|   ⚠️   | &nbsp;&nbsp; [07&nbsp;&nbsp;- &nbsp;&nbsp;Password Sequencer with React Native](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                                                      |
-|   ⚠️   | &nbsp;&nbsp; [08&nbsp;&nbsp;- &nbsp;&nbsp;Recreation - Bat Signal App with React Native](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                                             |
-|   ⚠️   | &nbsp;&nbsp; [09&nbsp;&nbsp;- &nbsp;&nbsp;Portfolio App with React Native](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                                                           |
-|   ⚠️   | &nbsp;&nbsp; [10&nbsp;&nbsp;- &nbsp;&nbsp;Consuming API in React Native APPs in Practice](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/....)                                                                                            |
+|   ✔️   | &nbsp;&nbsp; [04&nbsp;&nbsp;- &nbsp;&nbsp;Podcast Manager - Node.js API with Typescript and HTTP Module](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/04-podcast_manager)                                                               |
+|   📌   | &nbsp;&nbsp; [05&nbsp;&nbsp;- &nbsp;&nbsp;Minimal Formula 1 API with Node.js and Fastify](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/05-minimal_formula_1)                                                                            |
+|   ⚠️   | &nbsp;&nbsp; [06&nbsp;&nbsp;- &nbsp;&nbsp;Champions League API with Node.js and Express](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/06-champions_league)                                                                              |
+|   ⚠️   | &nbsp;&nbsp; [07&nbsp;&nbsp;- &nbsp;&nbsp;Password Sequencer with React Native](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/07-password_sequencer)                                                                                     |
+|   ⚠️   | &nbsp;&nbsp; [08&nbsp;&nbsp;- &nbsp;&nbsp;Recreation - Bat Signal App with React Native](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/08-bat_signal)                                                                                    |
+|   ⚠️   | &nbsp;&nbsp; [09&nbsp;&nbsp;- &nbsp;&nbsp;Portfolio App with React Native](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/09-portfolio-app)                                                                                               |
+|   ⚠️   | &nbsp;&nbsp; [10&nbsp;&nbsp;- &nbsp;&nbsp;Consuming API in React Native APPs in Practice](https://github.com/ed-radanovis/Bootcamp-Mobile-Developer_Project-Challenges_06-2025/tree/master/project_challenges/10-apps_in_practice)                                                                             |
 
 ---
 
@@ -112,68 +112,118 @@
 
 ---
 
+<h2 align="center">
+  ✒️ Certificates 
+<h2/>
+
+---
+
+<br>
+
 <h3 align="center">
-  🥇 Certificates
+  🏆 🥇 Conclusion 🥇 🏆
 <h3/>
 
-<h5 align="center">
+<table align="center">
+  <tr>
+  <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/_Conclusao_Certificado_final_75hs.jpg" width="320px;" height="160px;" alt="Module certificate-3"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h4 align="center">
   🎓 Modules 📚
-<h5/>
+<h4/>
 
 <table align="center">
   <tr>
 <td align="center">
-    <a href="https://www.dio.me/certificate/8NWGQWZO/share">
-      <img src="/certificates/modulo_Certificado 0_Trabalhando com Node Modules.jpg" width="160px;" height="80px;" alt="Module certificate-0"/>
-      </a>
-      <sub>07:00 h</sub><br>
-    </td>
-    <td align="center">
     <a href="https://www.dio.me/certificate/L9FXNTKS/share">
-      <img src="/certificates/modulo_Certificado 1_Fundamentos de Programação com Node.jpg" width="160px;" height="80px;" alt="Module certificate-1"/>
+      <img src="/certificates/modulo_Certificado 0_Fundamentos de Programação com Nodejs.jpg" width="160px;" height="80px;" alt="Module certificate-0"/>
       </a>
       <sub>11:00 h</sub><br>
     </td>
     <td align="center">
+    <a href="https://www.dio.me/certificate/8NWGQWZO/share">
+      <img src="/certificates/modulo_Certificado 1_Trabalhando com Node Modules.jpg" width="160px;" height="80px;" alt="Module certificate-1"/>
+      </a>
+      <sub>07:00 h</sub><br>
+    </td>
+    <td align="center">
     <a href="https://www.dio.me/certificate/W0DXRX7J/share">
-      <img src="/certificates/modulo_Certificado 2_Gerenciando Pacotes Node com NPM.jpg" width="160px;" height="80px;" alt="Module certificate-2"/>
+      <img src="/certificates/modulo_Certificado 2_Gerenciando Pacotes NodeJS com NPM.jpg" width="160px;" height="80px;" alt="Module certificate-2"/>
       </a>
       <sub>07:00 h</sub><br>
     </td>
     <td align="center">
     <a href="https://www.dio.me/certificate/D464PXNL/share">
-      <img src="/certificates/modulo_Certificado 3_Typescript para Devs Node.js.jpg" width="160px;" height="80px;" alt="Module certificate-3"/>
+      <img src="/certificates/modulo_Certificado 3_Typescript para Devs NodeJS.jpg" width="160px;" height="80px;" alt="Module certificate-3"/>
       </a>
       <sub>03:00 h</sub><br>
     </td>
   </tr>
 </table>
-
-<!-- <table align="center">
+<table align="center">
   <tr>
-<td align="center">
-    <a href="https://www.dio.me/certificate/8NWGQWZO/share">
-      <img src="/certificates/modulo_Certificado 0_Trabalhando com Node Modules.jpg" width="160px;" height="80px;" alt="Module certificate-0"/>
-      </a><br>
+  <td align="center">
+    <a href="https://www.dio.me/certificate/VX2IHLIW/share">
+      <img src="/certificates/modulo_Certificado 4_Introdução a Aplicações Web.jpg" width="160px;" height="80px;" alt="Module certificate-40"/>
+      </a>
+      <sub>04:00 h</sub><br>
     </td>
     <td align="center">
-    <a href="https://www.dio.me/certificate/8NWGQWZO/share">
-      <img src="/certificates/modulo_Certificado 0_Trabalhando com Node Modules.jpg" width="160px;" height="80px;" alt="Module certificate-0"/>
-      </a><br>
+    <a href="INSERIR">
+      <img src="/certificates/modulo_Certificado 5_Criando APIs com NodeJS.jpg" width="160px;" height="80px;" alt="Module certificate-5"/>
+      </a>
+      <sub>08:00 h</sub><br>
     </td>
     <td align="center">
-    <a href="https://www.dio.me/certificate/8NWGQWZO/share">
-      <img src="/certificates/modulo_Certificado 0_Trabalhando com Node Modules.jpg" width="160px;" height="80px;" alt="Module certificate-0"/>
-      </a><br>
+    <a href="INSERIR">
+      <img src="/certificates/modulo_Certificado 6_Boas Práticas de Programação.jpg" width="160px;" height="80px;" alt="Module certificate-6"/>
+      </a>
+      <sub>05:00 h</sub><br>
     </td>
     <td align="center">
-    <a href="https://www.dio.me/certificate/8NWGQWZO/share">
-      <img src="/certificates/modulo_Certificado 0_Trabalhando com Node Modules.jpg" width="160px;" height="80px;" alt="Module certificate-0"/>
-      </a><br>
+    <a href="INSERIR">
+      <img src="/certificates/modulo_Certificado 7_Introdução a React Native.jpg" width="160px;" height="80px;" alt="Module certificate-7"/>
+      </a>
+      <sub>10:00 h</sub><br>
     </td>
   </tr>
-</table> -->
-<br>
+</table>
+<table align="center">
+  <tr>
+  <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/modulo_Certificado 8_Fundamentos de Apps React.jpg" width="160px;" height="80px;" alt="Module certificate-8"/>
+      </a>
+      <sub>06:00 h</sub><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/modulo_Certificado 9_Navegabilidade no React Native.jpg" width="160px;" height="80px;" alt="Module certificate-9"/>
+      </a>
+      <sub>07:00 h</sub><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/modulo_Certificado 10_Gerenciando Componentes React Native.jpg" width="160px;" height="80px;" alt="Module certificate-10"/>
+      </a>
+      <sub>06:00 h</sub><br>
+    </td>
+    <td align="center">
+    <a INSERIR">
+      <img src="/certificates/modulo_Certificado 11_Desenvolvimento IA Powered.jpg" width="160px;" height="80px;" alt="Module certificate-11"/>
+      </a>
+      <sub>06:00 h</sub><br>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -190,22 +240,22 @@
     </td>
     <td align="center">
     <a href="https://www.dio.me/certificate/GBAJ1XNG/share">
-      <img src="/certificates/Certificado 1_Bem-Vindo ao Mundo do Node.js.jpg" width="160px;" height="50px;" alt="Certificate-1"/>
+      <img src="/certificates/Certificado 1_Bem-Vindo ao Mundo do NodeJS.jpg" width="160px;" height="50px;" alt="Certificate-1"/>
       </a><br>
     </td>
     <td align="center">
     <a href="https://www.dio.me/certificate/PB9PSUWG/share">
-      <img src="/certificates/Certificado 2_Introdução ao Node.jpg" width="160px;" height="50px;" alt="Certificate-2"/>
+      <img src="/certificates/Certificado 2_Introdução ao NodeJS.jpg" width="160px;" height="50px;" alt="Certificate-2"/>
       </a><br>
     </td>
     <td align="center">
     <a href="https://www.dio.me/certificate/XIUYMS5R/share">
-      <img src="/certificates/Certificado 3_Instalando Ambiente de Desenvolvimento Nodejs.jpg" width="160px;" height="50px;" alt="Certificate-3"/>
+      <img src="/certificates/Certificado 3_Instalando Ambiente de Desenvolvimento NodeJS.jpg" width="160px;" height="50px;" alt="Certificate-3"/>
       </a><br>
     </td>
     <td align="center">
     <a href="https://www.dio.me/certificate/3BSXCAFZ/share">
-      <img src="/certificates/Certificado 4_Inicializando Projetos Nodejs.jpg" width="160px;" height="50px;" alt="Certificate-4"/>
+      <img src="/certificates/Certificado 4_Inicializando Projetos NodeJS.jpg" width="160px;" height="50px;" alt="Certificate-4"/>
       </a><br>
     </td>
     <td align="center">
@@ -215,7 +265,7 @@
     </td>
     <td align="center">
     <a href="https://www.dio.me/certificate/AHQDXSZG/share">
-      <img src="/certificates/Certificado 6_Modularização de Projetos Node.js com CommonJS.jpg" width="160px;" height="50px;" alt="Certificate-6"/>
+      <img src="/certificates/Certificado 6_Modularização de Projetos NodeJS com CommonJS.jpg" width="160px;" height="50px;" alt="Certificate-6"/>
       </a><br>
     </td>
     <td align="center">
@@ -223,24 +273,23 @@
       <img src="/certificates/Certificado 7_Modularização com EcmaScript Modules.jpg" width="160px;" height="50px;" alt="Certificate-7"/>
       </a><br>
     </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
     <td align="center">
     <a href="https://www.dio.me/certificate/RLRKXDC8/share">
       <img src="/certificates/Certificado 8_Carrinho de Compras da Shopee com NodeJS.jpg" width="160px;" height="50px;" alt="Certificate-8"/>
       </a><br>
     </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
     <td align="center">
     <a href="https://www.dio.me/certificate/BYXUIEWO/share">
-      <img src="/certificates/Certificado 9_Gerenciando pacotes com Node.jpg" width="160px;" height="50px;" alt="Certificate-9"/>
+      <img src="/certificates/Certificado 9_Gerenciando pacotes com NodeJS.jpg" width="160px;" height="50px;" alt="Certificate-9"/>
       </a><br>
     </td>
     <td align="center">
     <a href="https://www.dio.me/certificate/1LLVX3LA/share">
-      <img src="/certificates/Certificado 10_NPM Scripts em Node JS.jpg" width="160px;" height="50px;" alt="Certificate-10"/>
+      <img src="/certificates/Certificado 10_NPM Scripts em NodeJS.jpg" width="160px;" height="50px;" alt="Certificate-10"/>
       </a><br>
     </td>
     <td align="center">
@@ -250,7 +299,7 @@
     </td>
     <td align="center">
     <a href="https://www.dio.me/certificate/IEDEJWPO/share">
-      <img src="/certificates/Certificado 12_Criando um Gerador de QR Codes para E-commerces com Node.jpg" width="160px;" height="50px;" alt="Certificate-12"/>
+      <img src="/certificates/Certificado 12_Criando um Gerador de QR Codes para E-commerces com NodeJS.jpg" width="160px;" height="50px;" alt="Certificate-12"/>
       </a><br>
     </td>
     <td align="center">
@@ -260,18 +309,14 @@
     </td>
     <td align="center">
     <a href="https://www.dio.me/certificate/P6YMRPGY/share">
-      <img src="/certificates/Certificado 14_Como configurar TypeScript em Projetos Nodejs.jpg" width="160px;" height="50px;" alt="Certificate-14"/>
+      <img src="/certificates/Certificado 14_Como configurar TypeScript em Projetos NodeJS.jpg" width="160px;" height="50px;" alt="Certificate-14"/>
       </a><br>
     </td>
     <td align="center">
     <a href="https://www.dio.me/certificate/IPD2N9D1/share">
-      <img src="/certificates/Certificado 15_Debugging com Nodejs.jpg" width="160px;" height="50px;" alt="Certificate-15"/>
+      <img src="/certificates/Certificado 15_Debugging com NodeJS.jpg" width="160px;" height="50px;" alt="Certificate-15"/>
       </a><br>
     </td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
     <td align="center">
     <a href="https://www.dio.me/certificate/CIZCN64V/share">
       <img src="/certificates/Certificado 16_Como a Web Funciona.jpg" width="160px;" height="50px;" alt="Certificate-16"/>
@@ -282,36 +327,158 @@
       <img src="/certificates/Certificado 17_Como Funciona HTTP Protocol.jpg" width="160px;" height="50px;" alt="Certificate-17"/>
       </a><br>
     </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
     <td align="center">
     <a href="https://www.dio.me/certificate/K266UEE7/share">
       <img src="/certificates/Certificado 18_Introdução ao desenvolvimento de API.jpg" width="160px;" height="50px;" alt="Certificate-18"/>
       </a><br>
     </td>
     <td align="center">
-    <a href="https://www.dio.me/certificate/VX2IHLIW/share">
-      <img src="/certificates/Certificado 19_Introdução a Aplicações Web.jpg" width="160px;" height="50px;" alt="Certificate-19"/>
+    <a href="https://www.dio.me/certificate/MATVFLNS/share">
+      <img src="/certificates/Certificado 19_Gerenciador de Podcasts API com NodeJS TS e HTTP module.jpg" width="160px;" height="50px;" alt="Certificate-19"/>
       </a><br>
     </td>
-    <!-- <td align="center">
-    <a href="https://www.dio.me/certificate/IEDEJWPO/share">
-      <img src="/certificates/Certificado 12_Criando um Gerador de QR Codes para E-commerces com Node.jpg" width="160px;" height="50px;" alt="Certificate-12"/>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/MATVFLNS/share">
+      <img src="/certificates/Certificado 20_Criando uma Minimal API da Formula 1 com NodeJS e Fastify.jpg" width="160px;" height="50px;" alt="Certificate-20"/>
       </a><br>
-    </td> -->
-    <!-- <td align="center">
-    <a href="https://www.dio.me/certificate/W0DXRX7J/share">
-      <img src="/certificates/Certificado 13_Gerenciando Pacotes Node com NPM.jpg" width="160px;" height="50px;" alt="Certificate-13"/>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 21_Recriando a API da Champions League com NodeJS e Express.jpg" width="160px;" height="50px;" alt="Certificate-21"/>
       </a><br>
-    </td> -->
-    <!-- <td align="center">
-    <a href="https://www.dio.me/certificate/VXFCWPEH/share">
-      <img src="/certificates/Certificado 14_Introdução a TypeScript e Supersets.jpg" width="160px;" height="50px;" alt="Certificate-14"/>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 22_Introdução a Clean Code.jpg" width="160px;" height="50px;" alt="Certificate-22"/>
       </a><br>
-    </td> -->
-    <!-- <td align="center">
-    <a href="https://www.dio.me/certificate/P6YMRPGY/share">
-      <img src="/certificates/Certificado 15_Como configurar TypeScript em Projetos Nodejs.jpg" width="160px;" height="50px;" alt="Certificate-15"/>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 23_Boas Praticas Para APIs RESTful.jpg" width="160px;" height="50px;" alt="Certificate-23"/>
       </a><br>
-    </td> -->
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 24_Introduçao ao React Native.jpg" width="160px;" height="50px;" alt="Certificate-24"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="https://www.dio.me/certificate/AVTTCADZ/share">
+      <img src="/certificates/Certificado 25_Configurando seu Ambiente de Desenvolvimento para React.jpg" width="160px;" height="50px;" alt="Certificate-25"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 26_Primeiros Passos com React Native.jpg" width="160px;" height="50px;" alt="Certificate-18"/>
+      </a><br>
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 27_Sequenciador de senhas do Batman com React Native.jpg" width="160px;" height="50px;" alt="Certificate-27"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 28_Trabalhando Com Componentes no React Native.jpg" width="160px;" height="50px;" alt="Certificate-28"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 29_Flexbox e Responsividade no React.jpg" width="160px;" height="50px;" alt="Certificate-29"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 30_Gerenciando eventos no React.jpg" width="160px;" height="50px;" alt="Certificate-30"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 31_Desafio Recrie um app de Bat Sinal.jpg" width="160px;" height="50px;" alt="Certificate-31"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 32_Trabalhando com Hooks no React Native.jpg" width="160px;" height="50px;" alt="Certificate-32"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 33_Trabalhando com Navigation no React Native.jpg" width="160px;" height="50px;" alt="Certificate-33"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 34_Trabalhando com Stack Navigation no React Native.jpg" width="160px;" height="50px;" alt="Certificate-34"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 35_Trabalhando com Tab Navigation no React Native.jpg" width="160px;" height="50px;" alt="Certificate-35"/>
+      </a><br>
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 36_Trabalhando com Drawer Navigation no React Native.jpg" width="160px;" height="50px;" alt="Certificate-36"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 37_Criando seu App de Portfolio.jpg" width="160px;" height="50px;" alt="Certificate-37"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 38_Casos de Usos com Hooks no React Native.jpg" width="160px;" height="50px;" alt="Certificate-38"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 39_Trabalhando com Context API no React Native.jpg" width="160px;" height="50px;" alt="Certificate-39"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 40_Como Consumir API em APPs React Native na Pratica.jpg" width="160px;" height="50px;" alt="Certificate-40"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 41_Deploy de Aplicacoes React Native para Lojas com EAS.jpg" width="160px;" height="50px;" alt="Certificate-41"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 42_Introducao a Engenharia de Prompts.jpg" width="160px;" height="50px;" alt="Certificate-42"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 43_Tecnicas de Engenharia de Prompt.jpg" width="160px;" height="50px;" alt="Certificate-43"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 44_Conhecendo o GitHub Copilot.jpg" width="160px;" height="50px;" alt="Certificate-44"/>
+      </a><br>
+    </td>
+    <td align="center">
+    <a href="INSERIR">
+      <img src="/certificates/Certificado 45_Configurando e Usando o GitHub Copilot.jpg" width="160px;" height="50px;" alt="Certificate-45"/>
+      </a><br>
+    </td>
   </tr>
 </table>
 

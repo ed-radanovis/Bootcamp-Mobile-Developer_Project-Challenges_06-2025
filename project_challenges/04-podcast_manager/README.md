@@ -1,6 +1,5 @@
 <h1 align="center">🎙️</h1>
 <div style="text-align: center;">
-
 # Podcast Manager
 
 </div>
@@ -11,8 +10,6 @@
 
 Podcast Manager is a Netflix-inspired web API developed with Node.js and TypeScript, designed to centralize and organize video podcast episodes by category, **without relying on frameworks like Express**. This project offers an intuitive and efficient way to browse and filter podcast content, with a lightweight, scalable, and **REST** backend architecture powered by native Node.js HTTP capabilities.
 
----
-
 <table align="center"
   <tr>
     <td align="center">
@@ -21,20 +18,14 @@ Podcast Manager is a Netflix-inspired web API developed with Node.js and TypeScr
   </tr>
 </table>
 
----
-
 ## 🎯 Objective
 
 The Podcast Manager was created to practice building a web API using **_[Node.js](https://nodejs.org/)_** and **_[TypeScript](https://www.typescriptlang.org/)_** without external frameworks, focusing on core HTTP handling and modular architecture. It implements endpoints to list and filter podcast episodes, reinforcing concepts like TypeScript type safety, modular project structure, and scalable API design. The project prioritizes simplicity, performance, and extensibility for future feature additions. ✅
-
----
 
 ## 🚀 Features
 
 - **List podcast episodes by category:** Episodes are grouped into categories such as music, sport and development, enabling seamless content exploration.
 - **Filter episodes by podcast name:** Users can search for episodes by specific podcast names for quick access to desired content.
-
----
 
 ## 🛠️ Implementation
 
@@ -81,8 +72,6 @@ The Podcast Manager was created to practice building a web API using **_[Node.js
 - **Description:** Returns a list of podcast episodes based on the provided podcast name.
 - **Example request:** `GET /episode?podcastName=flow`
 
----
-
 ## 📚 Prerequisites
 
 Before starting this project, you should have basic knowledge in the following areas:
@@ -91,8 +80,6 @@ Before starting this project, you should have basic knowledge in the following a
 - TypeScript: Familiarity with TypeScript syntax and type safety.
 - Node.js: Basic understanding of Node.js runtime, HTTP module, and module system.
 - NPM and Dependencies: Experience with installing and managing dependencies via NPM.
-
----
 
 ## 💻 Technologies Used
 
@@ -103,8 +90,6 @@ Before starting this project, you should have basic knowledge in the following a
 - [![@types/node](https://img.shields.io/badge/-@types/node-333333?style=flat&logo=typescript)](https://www.npmjs.com/package/@types/node)
 - <img src="https://raw.githubusercontent.com/ed-radanovis/Soft-App-Memes-Machine-DIO-11-2022/6c046ddb9cd516f3cea41a8abbb1318fc3e6d8d1/assets/github/mini_logo_vscode.png" width="21px" alt="VS Code Icon">[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 
----
-
 ## 🧠 Skills Learned
 
 Upon completion of this project, you will acquire the following skills:
@@ -114,8 +99,6 @@ Upon completion of this project, you will acquire the following skills:
 - Structuring a TypeScript project with modular architecture (controllers, services, repositories).
 - Using Tsup and Tsx for efficient TypeScript compilation and execution.
 - Managing JSON data and type safety for podcast episode handling.
-
----
 
 ## 📂 Project Structure
 
@@ -155,8 +138,6 @@ Upon completion of this project, you will acquire the following skills:
 └── 📄 tsconfig.json
 ```
 
----
-
 ## ⚙️ Setup and Running
 
 1. Clone the repository:
@@ -181,8 +162,6 @@ Upon completion of this project, you will acquire the following skills:
 
 > 📝 Note: Ensure Node.js (version 18.11.0 or higher) is installed. The project uses ES Modules, so the `package.json` includes `"type": "module"`. Configure the `.env` file if additional environment variables are needed.
 
----
-
 ## 🔬 Testing
 
 ✔️ - Manual Testing:
@@ -192,13 +171,9 @@ Upon completion of this project, you will acquire the following skills:
 - [x] Validate JSON response structure and data integrity.
 - [x] Test edge cases (e.g., empty categories, non-existent podcast names).
 
----
-
 ## 🤝 Contribute
 
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
-
----
 
 ## 📜 License
 

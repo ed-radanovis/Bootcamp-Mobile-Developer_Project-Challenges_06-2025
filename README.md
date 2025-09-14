@@ -144,7 +144,7 @@
   <tr>
 <td align="center">
     <a href="https://www.dio.me/certificate/L9FXNTKS/share">
-      <img src="/certificates/modulo_Certificado 0_Fundamentos de Programação com Nodejs.jpg" width="160px;" height="80px;" alt="Module certificate-0"/>
+      <img src="/certificates/modulo_Certificado 0_Fundamentos de Programação com NodeJS.jpg" width="160px;" height="80px;" alt="Module certificate-0"/>
       </a>
       <sub>11:00 h</sub><br>
     </td>
@@ -487,3 +487,4 @@
 <br>
 
 [⬆ Back to top](#bootcamp-project-challenges)
+

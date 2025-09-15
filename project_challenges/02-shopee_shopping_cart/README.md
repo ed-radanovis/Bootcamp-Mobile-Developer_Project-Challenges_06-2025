@@ -92,6 +92,10 @@ node --watch src/index.js
 
 ---
 
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 <br>
 
 [⬆ Back to top](#shopee-shopping-cart---backend-learning-project)

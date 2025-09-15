@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-<img src="github\logo_bootcamp.jpg" min-width="100px" width="800" min-height="200px" height="250px" alt="logo bootcamp">
+<img src="github/logo_bootcamp.jpg" min-width="100px" width="600" min-height="100px" height="300px" alt="logo bootcamp">
 </p>
 
 ---
@@ -487,4 +487,3 @@
 <br>
 
 [⬆ Back to top](#bootcamp-project-challenges)
-

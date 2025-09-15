@@ -150,6 +150,10 @@ npm run start
 
 ---
 
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 <br>
 
 [⬆ Back to top](#qr-code-and-password-generator)

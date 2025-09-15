@@ -1,5 +1,6 @@
-<h1 align="center">🎙️</h1>
-<div style="text-align: center;">
+<p align="center">
+<img src="./assets/logo_podcast.png" min-width="100px" width="180" min-height="200px" height="180px" alt="logo bootcamp">
+</p>
 
 # Podcast Manager
 
@@ -11,13 +12,11 @@
 
 Podcast Manager is a Netflix-inspired web API developed with Node.js and TypeScript, designed to centralize and organize video podcast episodes by category, **without relying on frameworks like Express**. This project offers an intuitive and efficient way to browse and filter podcast content, with a lightweight, scalable, and **REST** backend architecture powered by native Node.js HTTP capabilities.
 
-<table align="center"
-  <tr>
-    <td align="center">
+<br>
+
+<p align="center">
       <img src="./assets/Model.png" width="800px;"height="400px;" alt="copy shopee cart screen"/>
-    </td>
-  </tr>
-</table>
+</p>
 
 ## 🎯 Objective
 
@@ -29,6 +28,8 @@ The Podcast Manager was created to practice building a web API using **_[Node.js
 - **Filter episodes by podcast name:** Users can search for episodes by specific podcast names for quick access to desired content.
 
 ## 🛠️ Implementation
+
+<br>
 
 <p align="center">
   <a href="https://podcast_manager_architecture-2.png" target="_blank">
@@ -89,6 +90,7 @@ Before starting this project, you should have basic knowledge in the following a
 - [![Tsup](https://img.shields.io/badge/-Tsup-333333?style=flat&logo=typescript)](https://github.com/egoist/tsup)
 - [![Tsx](https://img.shields.io/badge/-Tsx-333333?style=flat&logo=typescript)](https://github.com/egoist/tsx)
 - [![@types/node](https://img.shields.io/badge/-@types/node-333333?style=flat&logo=typescript)](https://www.npmjs.com/package/@types/node)
+- <img src="/github/logo_thunder_client.png" width="21px" alt="VS Code Icon">[![Thunder Client](https://img.shields.io/badge/-Thunder_Client-333333?style=flat&logo=thunder_client&logoColor=007ACC)](https://www.thunderclient.com/)
 - <img src="https://raw.githubusercontent.com/ed-radanovis/Soft-App-Memes-Machine-DIO-11-2022/6c046ddb9cd516f3cea41a8abbb1318fc3e6d8d1/assets/github/mini_logo_vscode.png" width="21px" alt="VS Code Icon">[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 
 ## 🧠 Skills Learned
@@ -103,7 +105,7 @@ Upon completion of this project, you will acquire the following skills:
 
 ## 📂 Project Structure
 
-```
+```bash
 ├── 📁 assets/
 │   ├── 🖼️ Model.png
 │   ├── 🖼️ basic_podcast_manager_architecture-0.png

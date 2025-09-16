@@ -1,89 +1,48 @@
 <p align="center">
-<img src="./assets/logo_podcast.png" min-width="100px" width="180" min-height="200px" height="180px" alt="logo bootcamp">
+<img src="./assets/logo_podcast.png" min-width="100px" width="140" min-height="200px" height="140px" alt="logo bootcamp">
 </p>
 
 # Podcast Manager
 
-</div>
-
-<br>
-
-## 📝 Description
+### 🔍 Overview
 
 Podcast Manager is a Netflix-inspired web API developed with Node.js and TypeScript, designed to centralize and organize video podcast episodes by category, **without relying on frameworks like Express**. This project offers an intuitive and efficient way to browse and filter podcast content, with a lightweight, scalable, and **REST** backend architecture powered by native Node.js HTTP capabilities.
 
+Taught by _Felipe Silva Aguiar_ - Tech Educator at DIO.
 <br>
+
+> ### 🎯 Objective
+>
+> - The Podcast Manager was created to practice building a web API using **_[Node.js](https://nodejs.org/)_** and **_[TypeScript](https://www.typescriptlang.org/)_** without external frameworks, focusing on core HTTP handling and modular architecture. It implements endpoints to list and filter podcast episodes, reinforcing concepts like TypeScript type safety, modular project structure, and scalable API design. The project prioritizes simplicity, performance, and extensibility for future feature additions. ✅
+
+<br>
+
+### 🧩 Features
+
+- **List podcast episodes by category:** Episodes are grouped into categories such as music, sport and development, enabling seamless content exploration.
+- **Filter episodes by podcast name:** Users can search for episodes by specific podcast names for quick access to desired content.
+
+---
 
 <p align="center">
       <img src="./assets/Model.png" width="800px;"height="400px;" alt="copy shopee cart screen"/>
 </p>
 
-## 🎯 Objective
+---
 
-The Podcast Manager was created to practice building a web API using **_[Node.js](https://nodejs.org/)_** and **_[TypeScript](https://www.typescriptlang.org/)_** without external frameworks, focusing on core HTTP handling and modular architecture. It implements endpoints to list and filter podcast episodes, reinforcing concepts like TypeScript type safety, modular project structure, and scalable API design. The project prioritizes simplicity, performance, and extensibility for future feature additions. ✅
+### 📚 Prerequisites
 
-## 🚀 Features
+- [ ] &nbsp;&nbsp;&nbsp;Before starting this project, you should have basic knowledge in the following areas:
+      <br>
 
-- **List podcast episodes by category:** Episodes are grouped into categories such as music, sport and development, enabling seamless content exploration.
-- **Filter episodes by podcast name:** Users can search for episodes by specific podcast names for quick access to desired content.
+- **Programming Logic:** Understanding of basic programming concepts.
+- **TypeScript:** Familiarity with TypeScript syntax and type safety.
+- **Node.js:** Basic understanding of Node.js runtime, HTTP module, and module system.
+- **NPM and Dependencies:** Experience with installing and managing dependencies via NPM.
 
-## 🛠️ Implementation
+---
 
-<br>
-
-<p align="center">
-  <a href="https://podcast_manager_architecture-2.png" target="_blank">
-    <img src="./assets/basic_podcast_manager_architecture-2.png" alt="Podcast Manager Architecture" width="800px" height="400px" >
-  </a>
-</p>
-
-### 📋 List podcast episodes in category sections
-
-- **Endpoint:** `GET /list`
-- **Description:** Returns a list of podcast episodes organized by category.
-- **Example response:**
-
-```json
-[
-  {
-    "podcastName": "akitando",
-    "episode": "Gerenciamento de Memória (Parte 1) | Entendendo Back-end para Iniciantes (Parte 5)",
-    "videoId": "9AK_1gqEfkQ",
-    "categories": ["music", "sport", "development"]
-  },
-  {
-    "podcastName": "ErickWendelAcademy",
-    "episode": "Node.js Streams + Rate Limiting = Mastering Data Processing Advanced JavaScript",
-    "videoId": "tNjmQxwD1TM",
-    "categories": ["music", "sport", "development"]
-  },
-  {
-    "podcastName": "kazagastao",
-    "episode": "A DESPEDIDA de OZZY e do BLACK SABBATH",
-    "videoId": "xxI2FK2uMXA",
-    "cover": "https://i.ytimg.com/vi/xxI2FK2uMXA/maxresdefault.jpg",
-    "link": "https://www.youtube.com/watch?v=xxI2FK2uMXA",
-    "categories": ["music", "sport", "development"]
-  }
-]
-```
-
-### 🔍 Filter episodes by podcast name
-
-- **Endpoint:** `GET /episode?podcastName={name}`
-- **Description:** Returns a list of podcast episodes based on the provided podcast name.
-- **Example request:** `GET /episode?podcastName=flow`
-
-## 📚 Prerequisites
-
-Before starting this project, you should have basic knowledge in the following areas:
-
-- Programming Logic: Understanding of basic programming concepts.
-- TypeScript: Familiarity with TypeScript syntax and type safety.
-- Node.js: Basic understanding of Node.js runtime, HTTP module, and module system.
-- NPM and Dependencies: Experience with installing and managing dependencies via NPM.
-
-## 💻 Technologies Used
+### 🛠️ Technologies Used
 
 - [![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)](https://nodejs.org/)
 - [![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2F74C0)](https://www.typescriptlang.org/)
@@ -93,17 +52,9 @@ Before starting this project, you should have basic knowledge in the following a
 - <img src="/github/logo_thunder_client.png" width="21px" alt="VS Code Icon">[![Thunder Client](https://img.shields.io/badge/-Thunder_Client-333333?style=flat&logo=thunder_client&logoColor=007ACC)](https://www.thunderclient.com/)
 - <img src="https://raw.githubusercontent.com/ed-radanovis/Soft-App-Memes-Machine-DIO-11-2022/6c046ddb9cd516f3cea41a8abbb1318fc3e6d8d1/assets/github/mini_logo_vscode.png" width="21px" alt="VS Code Icon">[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 
-## 🧠 Skills Learned
+---
 
-Upon completion of this project, you will acquire the following skills:
-
-- Building a lightweight web API with Node.js and TypeScript without frameworks.
-- Implementing REST endpoints using Node.js native HTTP module.
-- Structuring a TypeScript project with modular architecture (controllers, services, repositories).
-- Using Tsup and Tsx for efficient TypeScript compilation and execution.
-- Managing JSON data and type safety for podcast episode handling.
-
-## 📂 Project Structure
+### 📂 Project Structure
 
 ```bash
 ├── 📁 assets/
@@ -141,7 +92,58 @@ Upon completion of this project, you will acquire the following skills:
 └── 📄 tsconfig.json
 ```
 
-## ⚙️ Setup and Running
+---
+
+### 💻 Implementation
+
+<br>
+
+<p align="center">
+  <a href="https://podcast_manager_architecture-2.png" target="_blank">
+    <img src="./assets/basic_podcast_manager_architecture-2.png" alt="Podcast Manager Architecture" width="800px" height="400px" >
+  </a>
+</p>
+
+#### 📋 List podcast episodes in category sections
+
+- **Endpoint:** `GET /list`
+- **Description:** Returns a list of podcast episodes organized by category.
+- **Example response:**
+
+```json
+[
+  {
+    "podcastName": "akitando",
+    "episode": "Gerenciamento de Memória (Parte 1) | Entendendo Back-end para Iniciantes (Parte 5)",
+    "videoId": "9AK_1gqEfkQ",
+    "categories": ["music", "sport", "development"]
+  },
+  {
+    "podcastName": "ErickWendelAcademy",
+    "episode": "Node.js Streams + Rate Limiting = Mastering Data Processing Advanced JavaScript",
+    "videoId": "tNjmQxwD1TM",
+    "categories": ["music", "sport", "development"]
+  },
+  {
+    "podcastName": "kazagastao",
+    "episode": "A DESPEDIDA de OZZY e do BLACK SABBATH",
+    "videoId": "xxI2FK2uMXA",
+    "cover": "https://i.ytimg.com/vi/xxI2FK2uMXA/maxresdefault.jpg",
+    "link": "https://www.youtube.com/watch?v=xxI2FK2uMXA",
+    "categories": ["music", "sport", "development"]
+  }
+]
+```
+
+#### 🔍 Filter episodes by podcast name
+
+- **Endpoint:** `GET /episode?podcastName={name}`
+- **Description:** Returns a list of podcast episodes based on the provided podcast name.
+- **Example request:** `GET /episode?podcastName=flow`
+
+---
+
+### ⚙️ Setup and Running
 
 1. Clone the repository:
    ```bash
@@ -162,10 +164,12 @@ Upon completion of this project, you will acquire the following skills:
 5. Access the endpoints:
    - `GET /list` to retrieve all episodes by category.
    - `GET /episodes?p=podcastName`to filter episodes by podcast name.
+     <br>
+     > 📝 Note: Ensure Node.js (version 18.11.0 or higher) is installed. The project uses ES Modules, so the `package.json` includes `"type": "module"`. Configure the `.env` file if additional environment variables are needed.
 
-> 📝 Note: Ensure Node.js (version 18.11.0 or higher) is installed. The project uses ES Modules, so the `package.json` includes `"type": "module"`. Configure the `.env` file if additional environment variables are needed.
+---
 
-## 🔬 Testing
+### 🔬 Testing
 
 ✔️ - Manual Testing:
 
@@ -174,12 +178,30 @@ Upon completion of this project, you will acquire the following skills:
 - [x] Validate JSON response structure and data integrity.
 - [x] Test edge cases (e.g., empty categories, non-existent podcast names).
 
-## 🤝 Contribute
+---
+
+### 🧠 Skills Learned
+
+✔️ - Upon completion of this project, you will acquire the following skills:
+
+- Building a lightweight web API with Node.js and TypeScript without frameworks.
+- Implementing REST endpoints using Node.js native HTTP module.
+- Structuring a TypeScript project with modular architecture (controllers, services, repositories).
+- Using Tsup and Tsx for efficient TypeScript compilation and execution.
+- Managing JSON data and type safety for podcast episode handling.
+
+---
+
+### 🤝 Contribute
 
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
 
-## 📜 License
+---
+
+### 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+<br>
 
 [⬆ Back to top](#podcast-manager)

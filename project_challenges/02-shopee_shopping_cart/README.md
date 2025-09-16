@@ -1,19 +1,23 @@
+  <p align="center">
+    <img src="./assets/logo_shopee_shopping_cart.png" min-width="100px" width="180" min-height="200px" height="180px" alt="logo bootcamp">
+  </p>
+
 # Shopee Shopping Cart - Backend Learning Project
 
-## Overview
+### 🔍 Overview
 
 A simple backend application developed to consolidate Node.js and JavaScript concepts.
 
 Taught by _Felipe Silva Aguiar_ - Tech Educator at DIO.
 <br>
 
-> 🎯 Objective:
+> ### 🎯 Objective:
 >
 > - This project, was created to practice backend development skills using **_[Node.js](https://nodejs.org)_** and pure **_[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)_**. It implements a shopping cart system with basic CRUD operations (add, remove, delete, display, and calculate total), reinforcing concepts like asynchronous programming, modularization, and data manipulation. ✅
 
 <br>
 
-### 🚀 Features
+### 🧩 Features
 
 - Add items to the cart
 - Remove items (decrease quantity or remove completely)
@@ -23,13 +27,26 @@ Taught by _Felipe Silva Aguiar_ - Tech Educator at DIO.
 
 ---
 
-<table align="center"
-  <tr>
-    <td align="center">
-      <img src="./assets/Model.png" width="400px;"height="300px;" alt="copy shopee cart screen"/>
-    </td>
-  </tr>
-</table>
+  <p align="center">
+    <img src="./assets/Model.png" width="600px;"height="400px;" alt="copy shopee cart screen"/>
+  </p>
+
+---
+
+### 📚 Prerequisites
+
+- [ ] &nbsp;&nbsp;&nbsp;Before starting this project, you should have basic knowledge in the following areas:
+      <br>
+
+- **Programming Logic:** Understanding of basic programming concepts like variables, conditionals, loops, and functions.
+- **JavaScript Fundamentals:** Familiarity with JavaScript syntax, data types, arrays, objects, and ES6+ features.
+- **Asynchronous Programming:** Basic understanding of callbacks, promises, and async/await patterns in JavaScript.
+- **Node.js Runtime:** Knowledge of Node.js environment, module system, and CommonJS/ES modules.
+- **Array Manipulation:** Experience with array methods like map, filter, reduce, and find for data processing.
+- **Object-Oriented Concepts:** Understanding of object creation, methods, and property manipulation in JavaScript.
+- **NPM and Package Management:** Basic experience with installing and managing dependencies via NPM.
+- **Console Applications:** Familiarity with building and running command-line applications.
+- **Error Handling:** Knowledge of try/catch blocks and basic error management techniques.
 
 ---
 
@@ -41,11 +58,11 @@ The project was fully completed and some of the resources used were:
 
 [![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)](https://nodejs.org/)
 
-[<img src="assets\mini_logo_vscode.png" width="21px" alt="Visual Studio Code Icon">![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+[<img src="../../github/mini_logo_vscode.png" width="21px" alt="Visual Studio Code Icon">![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 
 ---
 
-#### 📂 Project Structure
+### 📂 Project Structure
 
 ```bash
 project_challenges/shopee_shopping_cart/
@@ -60,7 +77,7 @@ project_challenges/shopee_shopping_cart/
 
 ---
 
-#### ⚙️ Setup and Running
+### ⚙️ Setup and Running
 
 - [ ] &nbsp;&nbsp;&nbsp;Prerequisites:
       ✔️ - Node.js (version 18.11.0 or higher for --watch support).<br>
@@ -82,7 +99,7 @@ node --watch src/index.js
 
 ---
 
-#### 🔬 Testing
+### 🔬 Testing
 
 ✔️ - Manual Testing:
 
@@ -92,7 +109,28 @@ node --watch src/index.js
 
 ---
 
-## 📜 License
+### 🧠 Skills Learned
+
+✔️ Upon completion of this project, the following skills and subskills will be acquired:
+
+- How to implement a shopping cart system with CRUD operations using pure JavaScript.
+- Understanding of asynchronous programming and callback functions in Node.js.
+- Creating modular project structure with separation of concerns (services, models).
+- Data manipulation and array operations for cart management.
+- Currency formatting and financial calculations for e-commerce applications.
+- Input validation and error handling for user operations.
+- Working with JSON data structures for item representation.
+- Building console-based applications with interactive features.
+
+---
+
+### 🤝 Contribute
+
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
+
+---
+
+### 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
 

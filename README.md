@@ -14,8 +14,9 @@
 > <br>🖋️&nbsp;&nbsp;The course offered by _[DIO](https://www.dio.me/)_ in partnership with **_meutudo_** is a free program aimed at training full-stack mobile developers, focusing on technologies such as [Node.js](https://nodejs.org), [React Native](https://reactnative.dev/), and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) / [TypeScript](https://www.typescriptlang.org/). It is ideal for those looking to specialize in mobile application development.
 >
 > > 🔎&nbsp;&nbsp;Details :
-> > Taught by _Felipe Silva Aguiar_ 🥇 - Tech Educator at DIO.
 > >
+> > - 🥇 Taught by _Felipe Silva Aguiar_- Tech Educator at DIO.
+> >   <br>
 > > - ⏰ Course Duration:&nbsp;&nbsp;Approximately 75 hours.
 > >   <br>
 > > - 🎯 Objective:&nbsp;&nbsp;To empower participants to master the fundamental stack for mobile development, from the backend to the frontend, with a practical approach aligned with market demands.

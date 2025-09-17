@@ -92,7 +92,7 @@ server.get<{ Params: DriverParams }>(
 const { PORT } = process.env;
 
 server.listen({ port: Number(PORT) }, (err) => {
-  console.log(`\n🚀  server started on port : ${PORT}\n`);
+  console.log(`\n💻  server started on port : ${PORT}\n`);
   console.log(`➡️  http://localhost:${PORT}\n \n`);
   console.log("📋 Available endpoints:\n");
   console.log(` GET /teams - List all teams\n`);

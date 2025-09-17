@@ -25,7 +25,9 @@ Taught by _Felipe Silva Aguiar_ - Tech Educator at DIO.
 ---
 
 <p align="center">
-      <img src="./assets/Model.png" width="800px;"height="400px;" alt="copy shopee cart screen"/>
+  <a href="./assets/Model.jpg" target="_blank">
+    <img src="./assets/Model.png" width="800px;"height="400px;" alt="copy shopee cart screen"/>
+  </a>
 </p>
 
 ---
@@ -99,7 +101,7 @@ Taught by _Felipe Silva Aguiar_ - Tech Educator at DIO.
 <br>
 
 <p align="center">
-  <a href="https://podcast_manager_architecture-2.png" target="_blank">
+  <a href="./assets/basic_podcast_manager_architecture-2.png" target="_blank">
     <img src="./assets/basic_podcast_manager_architecture-2.png" alt="Podcast Manager Architecture" width="800px" height="400px" >
   </a>
 </p>

@@ -94,7 +94,6 @@ Taught by _Felipe Silva Aguiar_ - Tech Educator at DIO.
 ├── 🚫 .gitignore
 ├── 📜 LICENSE
 ├── 📖 README.MD
-├── 📄 arch-editavel.tldr
 ├── 📄 package-lock.json
 ├── 📄 package.json
 └── 📄 tsconfig.json

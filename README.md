@@ -178,13 +178,13 @@
       <sub>04:00 h</sub><br>
     </td>
     <td align="center">
-    <a href="INSERIR">
+    <a href="https://www.dio.me/certificate/MRXO02Q5/share">
       <img src="/certificates/modulo_Certificado 5_Criando APIs com NodeJS.jpg" width="160px;" height="80px;" alt="Module certificate-5"/>
       </a>
       <sub>08:00 h</sub><br>
     </td>
     <td align="center">
-    <a href="INSERIR">
+    <a href="https://www.dio.me/certificate/XROROGQJ/share">
       <img src="/certificates/modulo_Certificado 6_Boas Práticas de Programação.jpg" width="160px;" height="80px;" alt="Module certificate-6"/>
       </a>
       <sub>05:00 h</sub><br>
@@ -348,32 +348,32 @@
       </a><br>
     </td>
     <td align="center">
-    <a href="INSERIR">
+    <a href="https://www.dio.me/certificate/ENJRBJQO/share">
       <img src="/certificates/Certificado 21_Recriando a API da Champions League com NodeJS e Express.jpg" width="160px;" height="50px;" alt="Certificate-21"/>
       </a><br>
     </td>
     <td align="center">
-    <a href="INSERIR">
+    <a href="https://www.dio.me/certificate/JXP4TWCJ/share">
       <img src="/certificates/Certificado 22_Introdução a Clean Code.jpg" width="160px;" height="50px;" alt="Certificate-22"/>
       </a><br>
     </td>
     <td align="center">
-    <a href="INSERIR">
+    <a href="https://www.dio.me/certificate/DXJUTKVO/share">
       <img src="/certificates/Certificado 23_Boas Praticas Para APIs RESTful.jpg" width="160px;" height="50px;" alt="Certificate-23"/>
       </a><br>
     </td>
     <td align="center">
-    <a href="INSERIR">
+    <a href="https://www.dio.me/certificate/4VCALRLO/share">
       <img src="/certificates/Certificado 24_Introduçao ao React Native.jpg" width="160px;" height="50px;" alt="Certificate-24"/>
       </a><br>
     </td>
     <td align="center">
-    <a href="https://www.dio.me/certificate/AVTTCADZ/share">
+    <a href="https://www.dio.me/certificate/MS2CPYUK/share">
       <img src="/certificates/Certificado 25_Configurando seu Ambiente de Desenvolvimento para React.jpg" width="160px;" height="50px;" alt="Certificate-25"/>
       </a><br>
     </td>
     <td align="center">
-    <a href="INSERIR">
+    <a href="https://www.dio.me/certificate/UQCN8AD9/share">
       <img src="/certificates/Certificado 26_Primeiros Passos com React Native.jpg" width="160px;" height="50px;" alt="Certificate-18"/>
       </a><br>
     </td>
